@@ -1,0 +1,15 @@
+C:\Users\Breno da Silva\Projetos\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\bin\Debug\net6.0\AlgorithmsAndDataStructures.exe
+C:\Users\Breno da Silva\Projetos\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\bin\Debug\net6.0\AlgorithmsAndDataStructures.deps.json
+C:\Users\Breno da Silva\Projetos\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\bin\Debug\net6.0\AlgorithmsAndDataStructures.runtimeconfig.json
+C:\Users\Breno da Silva\Projetos\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\bin\Debug\net6.0\AlgorithmsAndDataStructures.dll
+C:\Users\Breno da Silva\Projetos\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\bin\Debug\net6.0\AlgorithmsAndDataStructures.pdb
+C:\Users\Breno da Silva\Projetos\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\obj\Debug\net6.0\AlgorithmsAndDataStructures.csproj.AssemblyReference.cache
+C:\Users\Breno da Silva\Projetos\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\obj\Debug\net6.0\AlgorithmsAndDataStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Breno da Silva\Projetos\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\obj\Debug\net6.0\AlgorithmsAndDataStructures.AssemblyInfoInputs.cache
+C:\Users\Breno da Silva\Projetos\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\obj\Debug\net6.0\AlgorithmsAndDataStructures.AssemblyInfo.cs
+C:\Users\Breno da Silva\Projetos\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\obj\Debug\net6.0\AlgorithmsAndDataStructures.csproj.CoreCompileInputs.cache
+C:\Users\Breno da Silva\Projetos\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\obj\Debug\net6.0\AlgorithmsAndDataStructures.dll
+C:\Users\Breno da Silva\Projetos\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\obj\Debug\net6.0\refint\AlgorithmsAndDataStructures.dll
+C:\Users\Breno da Silva\Projetos\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\obj\Debug\net6.0\AlgorithmsAndDataStructures.pdb
+C:\Users\Breno da Silva\Projetos\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\obj\Debug\net6.0\AlgorithmsAndDataStructures.genruntimeconfig.cache
+C:\Users\Breno da Silva\Projetos\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\obj\Debug\net6.0\ref\AlgorithmsAndDataStructures.dll

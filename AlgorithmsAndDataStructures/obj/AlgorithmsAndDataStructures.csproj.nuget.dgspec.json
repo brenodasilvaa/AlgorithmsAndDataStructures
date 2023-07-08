@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Breno da Silva\\Projetos\\AlgorithmsAndDataStructures\\AlgorithmsAndDataStructures\\AlgorithmsAndDataStructures.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Breno da Silva\\Projetos\\AlgorithmsAndDataStructures\\AlgorithmsAndDataStructures\\AlgorithmsAndDataStructures.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Breno da Silva\\Projetos\\AlgorithmsAndDataStructures\\AlgorithmsAndDataStructures\\AlgorithmsAndDataStructures.csproj",
+        "projectName": "AlgorithmsAndDataStructures",
+        "projectPath": "C:\\Users\\Breno da Silva\\Projetos\\AlgorithmsAndDataStructures\\AlgorithmsAndDataStructures\\AlgorithmsAndDataStructures.csproj",
+        "packagesPath": "C:\\Users\\Breno da Silva\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Breno da Silva\\Projetos\\AlgorithmsAndDataStructures\\AlgorithmsAndDataStructures\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Breno da Silva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\Breno da Silva\\Projetos\\ProspecSlim\\packages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/norus/_packaging/Norus.SDK/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
