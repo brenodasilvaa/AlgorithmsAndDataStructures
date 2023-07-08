@@ -10,6 +10,8 @@ public static class UnionFindFactory
                 return new QuickFind();
             case UnionFindType.QuickUnion:
                 return new QuickUnion();
+            case UnionFindType.QuickUnionWheited:
+                return new QuickUnionWheited();
             default:
                 return default;
         }

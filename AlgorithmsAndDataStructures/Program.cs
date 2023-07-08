@@ -4,7 +4,8 @@ using AlgorithmsAndDataStructures;
 
 var data = File.ReadAllLines(Path.Combine(Directory.GetCurrentDirectory(), "Data", "NodesConnection.txt"));
 
-var unionTypes = new List<UnionFindType> { UnionFindType.QuickFind, UnionFindType.QuickUnion };
+var unionTypes = new List<UnionFindType>
+    { UnionFindType.QuickFind, UnionFindType.QuickUnion, UnionFindType.QuickUnionWheited };
 
 foreach (var unionType in unionTypes)
 {

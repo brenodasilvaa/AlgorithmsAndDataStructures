@@ -3,5 +3,6 @@
 public enum UnionFindType
 {
     QuickFind, 
-    QuickUnion
+    QuickUnion,
+    QuickUnionWheited
 }
