@@ -13,3 +13,4 @@ C:\Users\Breno da Silva\Projetos\AlgorithmsAndDataStructures\AlgorithmsAndDataSt
 C:\Users\Breno da Silva\Projetos\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\obj\Debug\net6.0\AlgorithmsAndDataStructures.pdb
 C:\Users\Breno da Silva\Projetos\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\obj\Debug\net6.0\AlgorithmsAndDataStructures.genruntimeconfig.cache
 C:\Users\Breno da Silva\Projetos\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\obj\Debug\net6.0\ref\AlgorithmsAndDataStructures.dll
+C:\Users\Breno da Silva\Projetos\AlgorithmsAndDataStructures\AlgorithmsAndDataStructures\bin\Debug\net6.0\Data\NodesConnection.txt
