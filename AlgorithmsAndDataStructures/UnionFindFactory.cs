@@ -9,7 +9,7 @@ public static class UnionFindFactory
             case UnionFindType.QuickFind:
                 return new QuickFind();
             case UnionFindType.QuickUnion:
-                return default;
+                return new QuickUnion();
             default:
                 return default;
         }

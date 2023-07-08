@@ -4,7 +4,7 @@ using AlgorithmsAndDataStructures;
 
 var data = File.ReadAllLines(Path.Combine(Directory.GetCurrentDirectory(), "Data", "NodesConnection.txt"));
 
-var unionTypes = new List<UnionFindType> { UnionFindType.QuickFind };
+var unionTypes = new List<UnionFindType> { UnionFindType.QuickFind, UnionFindType.QuickUnion };
 
 foreach (var unionType in unionTypes)
 {
@@ -12,14 +12,14 @@ foreach (var unionType in unionTypes)
 
     foreach (var line in data)
     {
-        if (line.Length <= 2)
+        if (line.Length <= 3)
             unionFind.SetNumberOfNodes(int.Parse(line));
         else
         {
-            var nodeA = int.Parse(line[..2]);
-            var nodeB = int.Parse(line.Substring(2, 1));
+            var nodeA = int.Parse(line[..4]);
+            var nodeB = int.Parse(line.Substring(4, 4));
 
-            if (unionFind.IsConnected(nodeA, nodeB)) return;
+            if (unionFind.IsConnected(nodeA, nodeB)) continue;
             
             unionFind.Union(nodeA, nodeB);
         }
